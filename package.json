@@ -1,16 +1,16 @@
 {
   "name": "sti-frontend",
   "version": "1.0.0",
-  "description": "My First Frontend Application",
+  "description": "",
   "main": "app.js",
   "scripts": {
-    "test": "test"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Annaaste/sti-frontend.git"
+    "url": "https://github.com/Annaaste/sti-frontend.git"
   },
-  "author": "",
+  "author": "Anna Karlsson",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Annaaste/sti-frontend/issues"
